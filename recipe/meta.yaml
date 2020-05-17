@@ -1,10 +1,10 @@
 {% set name = "utfcpp" %}
-{% set version = "3.1" %}
-{% set sha256 = "ab531c3fd5d275150430bfaca01d7d15e017a188183be932322f2f651506b096" %}
+{% set version = "3.1.1" %}
+{% set sha256 = "33496a4c3cc2de80e9809c4997052331af5fb32079f43ab4d667cd48c3a36e88" %}
 
 package:
-   name: {{ name|lower }}
-   version: {{ version }}
+  name: {{ name|lower }}
+  version: {{ version }}
 
 source:
   fn: v{{ version }}.tar.gz
@@ -25,7 +25,7 @@ test:
 about:
   home: https://github.com/nemtrif/utfcpp
   license: BSL-1.0
-  summary: 'A simple, portable and lightweight generic library for handling UTF-8 encoded strings.'
+  summary: A simple, portable and lightweight generic library for handling UTF-8 encoded strings.
   description: |
     UTF-8 with C++ in a Portable Way
 
