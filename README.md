@@ -1,11 +1,11 @@
-About utfcpp
-============
+About utfcpp-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/utfcpp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nemtrif/utfcpp
 
 Package license: BSL-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/utfcpp-feedstock/blob/main/LICENSE.txt)
 
 Summary: A simple, portable and lightweight generic library for handling UTF-8 encoded strings.
 
