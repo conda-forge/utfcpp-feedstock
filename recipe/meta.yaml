@@ -1,6 +1,6 @@
 {% set name = "utfcpp" %}
-{% set version = "4.09" %}
-{% set sha256 = "0902218f606e942ccc10724df8a988fc993c12da4b3adeace28a7f0211970e08" %}
+{% set version = "5.0.0" %}
+{% set sha256 = "42c36e1ef1307b1186996e4644f9999970e26325670b99019f3408bf0d3c952a" %}
 
 package:
   name: {{ name|lower }}
